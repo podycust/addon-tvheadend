@@ -14,7 +14,7 @@ RUN \
         libxslt-dev=1.1.37-r0 \
         python3-dev=3.10.10-r0 \
     && apk add --no-cache \
-        tvheadend=4.2.8-r6 \
+        tvheadend=4.2.8-r8 \
         py3-pip=22.3.1-r1 \
         libxslt=1.1.37-r0 \
     && pip3 install \
