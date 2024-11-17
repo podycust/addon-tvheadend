@@ -121,5 +121,5 @@ SOFTWARE.
 [my-ha-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [issue]: https://github.com/GauthamVarmaK/addon-tvheadend/issues
 [semver]: http://semver.org/spec/v2.0.0.htm
-[my-ha-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FGauthamVarmaK%2Fhassio-addons
+[my-ha-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fpodycust%2Fhassio-addons
 [releases]: https://github.com/GauthamVarmaK/addon-tvheadend/releases
